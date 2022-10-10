@@ -1,0 +1,2 @@
+C:\Users\MARTINA\Desktop\git-test\test-project\test1\Debug\test1.exe
+C:\Users\MARTINA\Desktop\git-test\test-project\test1\Debug\test1.pdb
